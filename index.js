@@ -2,10 +2,10 @@ var controller = (() => {
     let counter = 0;
 
     const data = [
-        {id: 0, image:'dee.jpg'},
-        {id: 1, image:'pexel.jpeg'},
-        {id: 2, image:'bb.jpg'},
-        {id: 3, image:'fall.jpg'}
+        {id: 0, image:'./image/dee.jpg'},
+        {id: 1, image:'./image/pexel.jpeg'},
+        {id: 2, image:'./image/bb.jpg'},
+        {id: 3, image:'./image/fall.jpg'}
     ];
 
     const changeImage = (e) => {
