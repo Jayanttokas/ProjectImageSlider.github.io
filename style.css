@@ -1,0 +1,18 @@
+.body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-fluid{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2e6e3;
+}
+
+.img-container{
+  border-radius: 10px;
+  border: 10px solid 	#212c3d;
+  box-shadow: 4px 4px 40px 1px #585153;
+}
